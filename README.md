@@ -1,1 +1,1 @@
-
+#   Amazone Static HomePage Clone
